@@ -136,20 +136,7 @@ src/main/kotlin/org/emvtools/
 
 The application supports both light and dark themes, toggleable from the sidebar.
 
-## License
-
-*License information to be added*
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Acknowledgments
 
 - Built with [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
 - Cryptographic operations powered by [Bouncy Castle](https://www.bouncycastle.org/)
-
----
-
-**Triangle Labs** © 2024
-
